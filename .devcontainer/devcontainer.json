@@ -1,0 +1,17 @@
+{
+    "name": "Training",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ritwickdey.liveserver",
+                "esbenp.prettier-vscode",
+                "PKief.material-icon-theme"
+            ],
+            "settings": {
+                "workbench.colorTheme": "GitHub Dark Default",
+                "editor.formatOnSave": true,
+                "editor.defaultFormatter": "esbenp.prettier-vscode"
+            }
+        }
+    }
+}
